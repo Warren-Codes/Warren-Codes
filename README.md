@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **Java, Microservices, APIs**
 
-- 📫 How to reach me **w4rrenbye@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
